@@ -1,0 +1,52 @@
+
+Apps removed while refreshing your PC
+
+App name Publisher Version 
+
+ 
+Apple Application Support (32-bit) Apple Inc. 4.3.2 
+Apple Application Support (64-bit) Apple Inc. 4.3.2 
+Apple Mobile Device Support Apple Inc. 9.3.0.15 
+Apple Software Update Apple Inc. 2.2.0.150 
+ASIO4ALL Michael Tippach 2.12 
+Atom GitHub Inc. 1.7.3 
+Audio Amplifier Free DanDans Digital Media  
+Canon MOV Decoder Canon Inc. 1.8.0.7 
+Canon MOV Encoder Canon Inc. 1.6.0.1 
+Canon MovieEdit Task for ZoomBrowser EX Canon Inc. 3.7.0.4 
+Canon Utilities Digital Photo Professional 3.10 Canon Inc. 3.10.2.0 
+Canon Utilities EOS Sample Music Canon Inc. 1.0.0.204 
+Canon Utilities EOS Utility Canon Inc. 2.10.2.0 
+Canon Utilities EOS Video Snapshot Task for ZoomBrowser EX Canon Inc. 1.0.0.10 
+Canon Utilities Movie Uploader for YouTube Canon Inc. 1.2.0.7 
+Canon Utilities PhotoStitch Canon Inc. 3.1.22.46 
+Canon Utilities Picture Style Editor Canon Inc. 1.9.0.0 
+Canon Utilities ZoomBrowser EX Canon Inc. 6.7.0.24 
+Canon ZoomBrowser EX Memory Card Utility Canon Inc. 1.5.0.9 
+C-Free 4 Standard Program Arts  
+FarmVille 2 Pokki 1.0.4.55785 
+FL Studio 11 Image-Line  
+FL Studio 11.5 Image-Line  
+FlowStone FL 3.0   
+Google Chrome Google Inc. 52.0.2743.116 
+H2   
+Host App Service Pokki 0.269.7.978 
+HP Wireless Button Driver Hewlett-Packard 1.1.5.1 
+iCloud Apple Inc. 5.1.0.34 
+IL Download Manager Image-Line  
+IL Shared Libraries Image-Line  
+iTunes Apple Inc. 12.4.2.4 
+Java 8 Update 91 (64-bit) Oracle Corporation 8.0.910.15 
+Java SE Development Kit 8 Update 91 (64-bit) Oracle Corporation 8.0.910.15 
+M3 BitLocker Decryption version 5.5 M3 Data Recovery 5.5 
+Notepad++ Notepad++ Team 6.8.8 
+Opera Stable 39.0.2256.48 Opera Software 39.0.2256.48 
+Price Metér (remove only) Price Meter 1.1.2.7 
+QuickTime 7 Apple Inc. 7.79.80.95 
+Skype™ 6.21 Skype Technologies S.A. 6.21.104 
+Synaptics ClickPad Driver Synaptics Incorporated 18.1.7.8 
+The weDownloads Manager+ weDownload 1.35.9.16 
+Trend Micro Maximum Security Trend Micro Inc. 10.0 
+Trend Micro Password Manager Trend Micro Inc. 3.7.0.1075 
+
+Monday, 29 August 2016 12:34 a.m.
