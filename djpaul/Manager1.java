@@ -1,5 +1,4 @@
-<!-- 		Created By:
-		Sachin Paul -->
+// author Sachin Paul
 
 package model;
 
